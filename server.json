@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createAt": "2023-02-11T15:31:12.181Z"
+    },
+    {
+      "id": 2,
+      "description": "Carrefour",
+      "type": "outcome",
+      "category": "Mercado",
+      "price": 400,
+      "createAt": "2023-01-11T15:31:12.181Z"
+    },
+    {
+      "id": 3,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 30000,
+      "createAt": "2023-02-11T15:31:12.181Z"
+    },
+    {
+      "id": 4,
+      "description": "Água de Luz",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 100,
+      "createAt": "2023-02-11T15:31:12.181Z"
+    },
+    {
+      "id": 5,
+      "description": "Conta de Luz",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 300,
+      "createAt": "2023-02-11T15:31:12.181Z"
+    },
+    {
+      "id": 6,
+      "description": "Restaurante",
+      "type": "outcome",
+      "category": "Despesas",
+      "price": 150,
+      "createAt": "2023-02-11T15:31:12.181Z"
+    }
+  ]
+}
